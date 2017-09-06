@@ -12,7 +12,7 @@
      int cur_year = 2017;
      int year_chosen = 0;
      
-     cout<< "Choose # of years";
+     cout<< "Choose # of years:";
        cin >> year_chosen;
     int future_year = cur_year + year_chosen;
      int future_year_population = cur_population + net_gain * year_chosen;
@@ -21,3 +21,4 @@
      cout << future_year_population << " in the United States." << endl;
      
  }
+
