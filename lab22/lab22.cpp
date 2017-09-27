@@ -12,7 +12,7 @@ using namespace std; // this includes the different function types.
  }
  int main() {
    ranNumGen(); // this is just calling for the function. 
-   cout << 1 % 3;
+   
 }
 
 
