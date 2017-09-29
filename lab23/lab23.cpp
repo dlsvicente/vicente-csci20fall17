@@ -39,11 +39,13 @@ void NumSwap(int& user_num_one, int& user_num_two) {
  }
  
  /*
+ 
  Enter Small Value: 1
 
 
 Enter Big Value: 10
 Random Number Between 1 and 10 is 4.
+
 
 Enter Small Value: 5
 
@@ -52,5 +54,10 @@ Enter Big Value: 82
 Random Number Between 5 and 82 is 71.
 
 
+Enter Small Value: 22
+
+
+Enter Big Value: 73
+Random Number Between 22 and 73 is 39.
 
  */
