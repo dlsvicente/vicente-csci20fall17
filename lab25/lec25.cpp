@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-class Salary //  
+class Salary // this class is used to print out the annual salary of a person. 
 {
     private: 
-        double annual_;
+        double annual_; // this is the data field 
     public:
         void SetAnnualSalary(double salary) // this is the accessor function 
         {
